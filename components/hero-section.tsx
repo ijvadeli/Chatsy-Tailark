@@ -40,7 +40,7 @@ export default function HeroSection() {
                                 speedSegment={0.3}
                                 as="h1"
                                 className="text-balance text-5xl font-medium md:text-6xl">
-                                Healthier daily routine
+                                Chatsy
                             </TextEffect>
                             <TextEffect
                                 per="line"
