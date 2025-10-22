@@ -6,7 +6,7 @@ import { AnimatedGroup } from '@/components/motion-primitives/animated-group'
 import { HeroHeader } from "@/components/header"
 import { LogoCloud } from "@/components/logo-cloud"
 
-const transitionVariants = {
+const transitionVariants: any = {
     item: {
         hidden: {
             opacity: 0,
